@@ -1,3 +1,3 @@
-# 交易机器人
+# Trading robot
 
-本项目是交易机器人相关项目，暂不开源
+This project is related to trading robots, not open source for the time being
